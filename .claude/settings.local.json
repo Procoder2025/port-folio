@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx next:*)",
+      "Bash(start:*)",
+      "WebFetch(domain:www.wallofportfolios.in)",
+      "WebFetch(domain:devanshusoni.com)",
+      "Bash(npm run:*)",
+      "Bash(find 'C:\\\\Users\\\\Karthikeyan M\\\\OneDrive\\\\Desktop\\\\port-folio/app' -type f \\\\\\(-name *.tsx -o -name *.ts -o -name *.css \\\\\\))",
+      "WebFetch(domain:www.devanshu.me)",
+      "WebSearch",
+      "WebFetch(domain:devanshuportfolio.com)",
+      "Bash(npm install:*)",
+      "Bash(taskkill /F /IM node.exe)",
+      "Bash(rm -rf .next/dev/lock)",
+      "Bash(netstat -ano)"
+    ]
+  }
+}
