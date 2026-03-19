@@ -382,7 +382,7 @@ function Hero() {
           <h1 className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-bold mb-3 sm:mb-4 leading-[0.95]" style={{ fontFamily: "Syne" }}>
             Hi, I&apos;m
             <br />
-            <span className="gradient-text-shimmer">Karthik</span>
+            <span className="gradient-text-shimmer">Karthikeyan</span>
           </h1>
 
           <div className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-semibold mb-4 sm:mb-6 h-8 sm:h-10 md:h-12" style={{ fontFamily: "Syne" }}>
